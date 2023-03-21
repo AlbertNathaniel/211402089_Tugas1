@@ -1,4 +1,4 @@
-Delapan bahasa pemrograman paling populer saat ini yaitu :
+Sepuluh bahasa pemrograman paling populer saat ini yaitu :
 1. PHP
 2. Ruby
 3. C++
@@ -7,3 +7,5 @@ Delapan bahasa pemrograman paling populer saat ini yaitu :
 6. Javascript
 7. Kotlin
 8. Typescript
+9. Swift
+10. Perl
